@@ -7,6 +7,6 @@ public class P1 {
         //v3 çalışmlar
 //v4
 //v5
-
+//remote değşiklilkkler
     }
 }
