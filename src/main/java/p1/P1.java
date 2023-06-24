@@ -7,5 +7,6 @@ public class P1 {
         //v3 çalışmlar
 //v4
         //github değşiklikleri
+        //Localeden sevgiler
     }
 }
