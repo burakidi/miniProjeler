@@ -6,7 +6,7 @@ public class P1 {
 //v2 yeni şeyler
         //v3 çalışmlar
 //v4
-
+//v5
         //Localeden sevgiler
     }
 }
