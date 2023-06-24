@@ -8,6 +8,6 @@ public class P1 {
 
 //yeni denemeler v4
 
-
+//denemeler devam v5
     }
 }
