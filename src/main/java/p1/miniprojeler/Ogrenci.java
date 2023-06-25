@@ -7,8 +7,7 @@ public class Ogrenci {
   private   String cinsiyet;
   private   int kilo;
  private    int boy;
-//deneme
-    //daha daha bunu da goster
+
  static Scanner input=new Scanner(System.in);
 
 
