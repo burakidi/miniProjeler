@@ -1,4 +1,4 @@
-package p1.miniprojeler;
+package miniprojeler;
 
 public class SelectOgrenci1 {
 }

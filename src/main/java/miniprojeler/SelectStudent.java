@@ -1,4 +1,4 @@
-package p1.miniprojeler;
+package miniprojeler;
 
 import java.util.ArrayList;
 import java.util.List;
