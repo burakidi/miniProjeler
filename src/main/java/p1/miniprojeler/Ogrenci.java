@@ -1,3 +1,5 @@
+package p1.miniprojeler;
+
 import java.util.Scanner;
 
 public class Ogrenci {
@@ -5,7 +7,8 @@ public class Ogrenci {
   private   String cinsiyet;
   private   int kilo;
  private    int boy;
-
+//deneme
+    //daha daha bunu da goster
  static Scanner input=new Scanner(System.in);
 
 
