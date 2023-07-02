@@ -1,4 +1,4 @@
-package miniprojeler;
+package mini1;
 
 import java.util.Scanner;
 
